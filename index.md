@@ -38,6 +38,10 @@ Mark Kirschstein: https://twitter.com/markkirschstein
 https://twitter.com/manc_js  
 Martin Rue: https://twitter.com/martinrue
 
+**McrFRED** / http://s10wen.com/blog/categories/mcrfred/
+https://twitter.com/mcr_fred  
+Simon Owen: https://twitter.com/s10wen
+
 **Manchester Raspberry Jam** / http://mcrraspjam.org.uk/  
 Jack Kelly: [Jack@SlightlyIntelligent.com](mailto:Jack@SlightlyIntelligent.com)
 
